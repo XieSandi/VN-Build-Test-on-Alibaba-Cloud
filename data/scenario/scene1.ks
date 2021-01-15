@@ -1,8 +1,9 @@
 [_tb_system_call storage=system/_scene1.ks]
 
 [cm  ]
-[bg  storage="room.jpg"  time="1000"  ]
+[bg  storage="igor-starkov-8u-OaI3MZrc-unsplash.jpg"  time="1000"  ]
 [tb_show_message_window  ]
+[live2d_show  name="koharu"  scale="1"  time="1000"  left="-268"  top="-167"  ]
 [tb_start_text mode=1 ]
 
 Hello.[p]

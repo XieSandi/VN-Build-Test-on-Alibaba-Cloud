@@ -11,6 +11,9 @@
 
 ;live2D対応
 
+[call storage="system/live2d.ks"]
+[call storage="system/live2d_define.ks"]
+
 
 [layopt layer=2 visible=true]
 [layopt layer="message0" visible=false]
@@ -23,7 +26,7 @@
 ;[title name="now loading"]
 
 ;タイトル画面表示
-[jump storage="_preview.ks"]
+[jump storage="title_screen.ks"]
 
 ;--------------------------
 
