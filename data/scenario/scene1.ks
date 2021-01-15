@@ -13,4 +13,8 @@ This is a new game project.[p]
 
 [clickable  storage="scene1.ks"  x="100"  y="100"  width="100"  height="100"  target=""  ]
 [button  storage="scene1.ks"  target=""  graphic="button/auto2.png"  width="70"  height="25"  x="302"  y="231"  _clickable_img=""  ]
+[tb_start_tyrano_code]
+[button graphic="auto.png" enterimg="auto2.png" storage="scene1.ks"]
+[_tb_end_tyrano_code]
+
 [s  ]
